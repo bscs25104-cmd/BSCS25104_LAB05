@@ -1,6 +1,6 @@
 #Sports-Store-with-Chatbot
 
-# 🏆 Sports Products Website & JavaScript Chatbot
+# Sports Products Website & JavaScript Chatbot
 
 This repository contains two completely separate frontend practice projects: a simple sports website and an independent JavaScript chat box.
 
